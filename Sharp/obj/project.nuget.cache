@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "tvpX6ejIAB12lgbj5ts8HQJj9inayCgpbx4u+x9UjWsEdSCfWsI1iDgGHlLax0qlDm3TvS3B/Gz86wGb9mGwkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joy20\\Folder\\NASA\\07-04_Altium_Sharp\\Sharp\\Sharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joy20\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\joy20\\.nuget\\packages\\openmcdf\\2.3.0\\openmcdf.2.3.0.nupkg.sha512",
+    "C:\\Users\\joy20\\.nuget\\packages\\originalcircuit.altiumsharp\\1.0.0\\originalcircuit.altiumsharp.1.0.0.nupkg.sha512",
+    "C:\\Users\\joy20\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\joy20\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
